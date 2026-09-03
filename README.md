@@ -1,2 +1,3 @@
 # Suspension-PRO-LINK
-Projet d'étude d'une suspension PRO LINK sur le logiciel Ansys Motion, dans le cadre de cours sur la mécanique des systèmes à plusieurs corps
+Mini projet d'étude d'une suspension PRO LINK réalisé sur le logiciel Ansys Motion. 
+Ce projet a eu lieu dans le cadre de cours sur la mécanique des systèmes à plusieurs corps. Les Suspensions PRO LINK qui ont été étudiées sont des suspensions couramment utilisées pour les motos, et sont composées de multiples pièces qui doivent être optimisées afin de trouver un bon équilibre entre le confort du conducteur et la bonne tenue de la route.
